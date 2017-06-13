@@ -1,0 +1,14 @@
+pip----在pycharm的终端Terminal里边安装user pygal_maps_world
+C:\Users\DELL\Desktop\pcc-master\pcc-master\chapter_16>pip install --user pygal_maps_world
+Collecting pygal_maps_world
+  Downloading pygal_maps_world-1.0.2.tar.gz (270kB)
+    100% |████████████████████████████████████████████████████████████████| 276kB 241kB/s
+Collecting pygal>=1.9.9 (from pygal_maps_world)
+  Downloading pygal-2.3.1-py2.py3-none-any.whl (126kB)
+    100% |████████████████████████████████████████████████████████████████| 133kB 234kB/s
+Building wheels for collected packages: pygal-maps-world
+  Running setup.py bdist_wheel for pygal-maps-world ... done
+  Stored in directory: C:\Users\DELL\AppData\Local\pip\Cache\wheels\b8\02\99\316101f69e8466c75a059ac7b30
+Successfully built pygal-maps-world
+Installing collected packages: pygal, pygal-maps-world
+Successfully installed pygal-2.3.1 pygal-maps-world-1.0.2
